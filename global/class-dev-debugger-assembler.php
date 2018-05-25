@@ -10,7 +10,8 @@
 		);
 
 		function __construct(){
-			//
+
+			$this->load_dependencies($this->dependencies, $this->flags);
 		}
 
 	}

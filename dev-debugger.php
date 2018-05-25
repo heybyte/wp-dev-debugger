@@ -15,3 +15,5 @@
 
 	include_once sprintf('%s/global/%s.php', DEV_DEBUGGER_BASE_PATH, 'class-dev-debugger-utils');
 	include_once sprintf('%s/global/%s.php', DEV_DEBUGGER_BASE_PATH, 'class-dev-debugger-assembler');
+
+	new dev_debugger_assembler();
