@@ -5,7 +5,7 @@
 	 * Plugin URI: https://heybyte.github.io/wp-dev-debugger
 	 * Description: Analyze every error
 	 * Version: 0.1
-	 * Author: Joachim Maquelin
+	 * Author: Joachim Maquelin (instagram.com/heybyte)
 	 * Author URI: https://github.com/heybyte
 	 * License: GPLv3 or Later
 	 */
