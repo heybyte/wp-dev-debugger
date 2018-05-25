@@ -3,7 +3,7 @@
 	/**
 	 * Plugin Name: Dev Debugger
 	 * Plugin URI: https://heybyte.github.io/wp-dev-debugger
-	 * Description: Analyze every error
+	 * Description: Analyze every error.
 	 * Version: 0.1
 	 * Author: Joachim Maquelin (instagram.com/heybyte)
 	 * Author URI: https://github.com/heybyte
